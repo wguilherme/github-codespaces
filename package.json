@@ -1,0 +1,8 @@
+{
+  "name": "github-codespaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wguilherme/github-codespaces.git",
+  "author": "Withney Guilherme <wguilhermecriativo@gmail.com>",
+  "license": "MIT"
+}
